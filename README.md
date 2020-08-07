@@ -4,7 +4,7 @@
 -->
 - 🔭 I’m currently working on Home.
 - 🌱 I’m currently learning HTML/CSS/JavaScript, Python Web Flask.
-- 🤔 I’m looking for internship job.
+- 🤔 I’m looking for a internship job.
 - 💬 Ask me about Python Web, Advanced CSS.
 - 📫 How to reach me: just focus me.
-- ⚡ Fun fact: a newbie.
+- ⚡ Fun fact: A newbie.
