@@ -22,3 +22,6 @@ English / HTML / CSS / JavaScript / Python
 - Frontend: Vue.js
 - Backend: Flask / FastAPI
 
+
+## Visitor Count：
+<img src="https://gv.halberd.cn/n-index?theme=stroke-fill&amp;active=f1840a&amp;deactive=f1f1f1&amp;len=6&amp;speed=40&amp;size=35&amp;space=3&amp;tail=1">
