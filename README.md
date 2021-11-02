@@ -12,7 +12,7 @@ Email: n-index@outlook.com
 - Games ( Tech stack:  Vue3 / Naive UI / Firebase )
   - https://games-n-index.vercel.app  (same)
   - https://n-index-games.onrender.com  (same)
-- Static pages ( Keyword: Semantic HTML / Advanced CSS / Responsive Layout )
+- Static pages ( Keyword: Semantic HTML / Advanced CSS / SCSS / Responsive Layout )
   - https://n-index.github.io/
 
 ## Skills:
