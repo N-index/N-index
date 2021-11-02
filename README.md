@@ -9,14 +9,14 @@ Email: n-index@outlook.com
 - Codepen: https://codepen.io/bigpoker
 
 ## Sites I deployed
-- Games: 
+- Games ( Tech stack:  Vue3 / Naive UI / Firebase )
   - https://games-n-index.vercel.app  (same)
   - https://n-index-games.onrender.com  (same)
-- Static pages:
+- Static pages ( Keyword: Semantic HTML / Advanced CSS / Responsive Layout )
   - https://n-index.github.io/
 
 ## Skills:
-HTML / CSS / JavaScript / Python
+English / HTML / CSS / JavaScript / Python 
 
 ## Frameworks
 - Frontend: Vue.js
