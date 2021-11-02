@@ -1,9 +1,24 @@
-### Hi there 👋
-<!--
-**N-index/N-index** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-- 🌱 I’m currently learning HTML/CSS/JavaScript, Python Web development using Flask.
-- 🤔 I’m looking for an frontend development job.
-- 💬 Ask me about Python Web, advanced CSS features.
-- 📫 How to reach me: just focus me.
-- ⚡ Fun fact: A newbie.
+# Hi there 👋
+
+## Contacts
+Email: n-index@outlook.com
+
+## Sites
+- Github: https://github.com/N-index
+- Leetcode: https://leetcode-cn.com/u/ling-jian-2015/
+- Codepen: https://codepen.io/bigpoker
+
+## Skills:
+- HTML
+- CSS
+- JavaScript
+- Python
+
+## Frameworks
+- Frontend: Vue.js
+- Backend: Flask / FastAPI
+
+## Sites I deployed
+- Games: 
+  - https://games-n-index.vercel.app
+  - https://n-index-games.onrender.com
