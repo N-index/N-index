@@ -8,6 +8,8 @@ Email: n-index@outlook.com
 - Leetcode: https://leetcode-cn.com/u/ling-jian-2015/        
   Solved: 155 (93 easy + 57 medium + 5 hard)
 - Codepen: https://codepen.io/bigpoker   
+  - 自制小组件：https://codepen.io/collection/aMNepJ
+  - 设计小思路：https://codepen.io/collection/OLNEWz
 
 ## Sites I deployed
 - Games ( Tech stack:  Vue3 / Naive UI / Firebase )
