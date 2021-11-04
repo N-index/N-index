@@ -5,7 +5,8 @@ Email: n-index@outlook.com
 
 ## Sites about me
 - Github: https://github.com/N-index
-- Leetcode: https://leetcode-cn.com/u/ling-jian-2015/   <img src=" https://leetcode-badge.haozibi.dev/v1cn/solved/ling-jian-2015.svg">
+- Leetcode: https://leetcode-cn.com/u/ling-jian-2015/        
+  Solved: 155 (93 easy + 57 medium + 5 hard)
 - Codepen: https://codepen.io/bigpoker   
 
 ## Sites I deployed
