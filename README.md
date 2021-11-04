@@ -5,8 +5,8 @@ Email: n-index@outlook.com
 
 ## Sites about me
 - Github: https://github.com/N-index
-- Leetcode: https://leetcode-cn.com/u/ling-jian-2015/
-- Codepen: https://codepen.io/bigpoker
+- Leetcode: https://leetcode-cn.com/u/ling-jian-2015/   <img src=" https://leetcode-badge.haozibi.dev/v1cn/solved/ling-jian-2015.svg">
+- Codepen: https://codepen.io/bigpoker   
 
 ## Sites I deployed
 - Games ( Tech stack:  Vue3 / Naive UI / Firebase )
