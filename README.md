@@ -21,11 +21,13 @@ Discord:  <a href="https://discord.com/users/jaufey#9797" target="__blank">jaufe
   - https://n-index-games.onrender.com  (same)
 - Static pages ( Keyword: Semantic HTML / Advanced CSS / SCSS / Responsive Layout )
   - https://n-index.github.io/
+- Blog
+  - https://jaufey-blog.vercel.app/
 
 ## Skills:
 English / HTML / CSS / JavaScript / Python 
 
-## Frameworks
+## Web Frameworks
 - Frontend: Vue.js
 - Backend: Flask / FastAPI
 
